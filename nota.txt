@@ -1,1 +1,2 @@
 version 1 - texto inicial :33
+version 2 - agrego informacion :0
